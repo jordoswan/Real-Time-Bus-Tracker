@@ -4,4 +4,4 @@
 
 ## Overlay the map with an icon that tracks the bus location. 
 
-<img src= "bus.png" width= '300' />
+<img src= "bus.jpeg" width= '300' />
